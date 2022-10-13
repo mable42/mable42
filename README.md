@@ -25,11 +25,10 @@ Now I'm looking for people who wants to **team up with me** and make **network s
 
 ## 📫 How to reach me:
 
-- E-Mail: `contact.nocteria@gmail.com`
-- Discord: `n0ct3ri4#0806` || [Discord Server](https://discord.gg/Tb4kZPhncG)
+- E-Mail: [contact.nocteria@gmail.com](mailto:contact.nocteria@gmail.com) 
 - Instagram: [Click Here](https://instagram.com/langedechu_off)
 
-## 🧠 I'm programming in:
+## 🧠 I can work with:
 
 - NodeJS (Main)
 - PHP

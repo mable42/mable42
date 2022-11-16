@@ -1,41 +1,27 @@
-# n0ct3ri4's GitHub.
+# 😈 L'Ange Déchu
 
-## 📜 TL;DR
+Coucou ! Je m'appelle Paul, et je suis passionné d'informatique.
 
-- 👋 Hi, I’m Paul!
-- 👀 I’m interested in network security.
-- 🌱 I'm programming in NodeJS.
-- 💞️ I’m looking for partners to make a team.
+# Mon parcours :
 
-## ❓ Who am I:
+🧒 J'ai commencé le développement informatique à mes 10 ans. 
 
-Hello world! My name is Paul.
+🐍 Comme beaucoup de personnes, j'ai commencé par apprendre le Python. 
 
-I'm currently a **high school student** and passionnate about **software development**.
+🌐 Puis, j'ai connu les technologies du web et j'ai continué dans cette lignée.
 
-I started programming when I was **10 years old** and I've been doing it ever since.
+💾 J'ai étudié les bases de données, l'algorithmie et la sécurité.
 
-**Python** was my first language but I quickly switched on **web developement** with **NodeJS**.
+📚 Aujourd'hui, je suis étudiant en informatique et réseaux.
 
-I couldn't find any langage as good as NodeJS so I'm still learning from it.
+# Expériences professionnelles :
 
-I was also interested by **making video games** and I've been doing it for like a year. But I decided to stop because I didn't have the time for it.
+👩‍🔧 Technicien et chargé de maintenance dans boîte d'informatique.
 
-Now I'm looking for people who wants to **team up with me** and make **network security projects**.
+👩‍💻 Technicien et chargé de maintenance informatique dans un collège.
 
-## 📫 How to reach me:
+📞 Chargé de maintenance et d'installation téléphonique à la mairie.
 
-- E-Mail: [contact.nocteria@gmail.com](mailto:contact.nocteria@gmail.com) 
-- Instagram: [Click Here](https://instagram.com/langedechu_off)
+# Technologies utilisées :
 
-## 🧠 I can work with:
-
-- NodeJS (Main)
-- PHP
-- HTML
-- CSS
-
-<!---
-n0ct3ri4/n0ct3ri4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![HTML5](https://img.shields.io/badge/HTML5-%20-orange?style=for-the-badge&logo=html5) ![Node.JS](https://img.shields.io/badge/Node.JS-%20-green?style=for-the-badge&logo=Node.JS) ![CSS3](https://img.shields.io/badge/CSS3-%20-blue?style=for-the-badge&logo=CSS3) ![MariaDB](https://img.shields.io/badge/MariaDB-%20-brown?style=for-the-badge&logo=MariaDB) ![PHP](https://img.shields.io/badge/PHP-%20-violet?style=for-the-badge&logo=PHP) ![Python](https://img.shields.io/badge/Python-%20-yellowgreen?style=for-the-badge&logo=Python) ![JavaScript](https://img.shields.io/badge/JavaScript-%20-yellow?style=for-the-badge&logo=JavaScript) 

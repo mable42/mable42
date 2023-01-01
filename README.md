@@ -12,7 +12,7 @@ Coucou ! Je m'appelle Paul, et je suis passionné d'informatique.
 
 💾 J'ai étudié les bases de données, l'algorithmie et la sécurité.
 
-📚 Aujourd'hui, je suis étudiant en informatique et réseaux.
+📚 Aujourd'hui, je continue d'apprendre en autonomie, hors du système scolaire secondaire.
 
 # Expériences professionnelles :
 

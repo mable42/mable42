@@ -16,11 +16,11 @@ Coucou ! Je m'appelle Paul, et je suis passionné d'informatique.
 
 # Expériences professionnelles :
 
-👩‍🔧 Technicien et chargé de maintenance dans boîte d'informatique.
+👩‍🔧 Technicien et chargé de maintenance dans une boîte d'informatique.
 
 👩‍💻 Technicien et chargé de maintenance informatique dans un collège.
 
-📞 Chargé de maintenance et d'installation téléphonique à la mairie.
+📞 Chargé de maintenance et d'installation téléphonique dans une mairie.
 
 # Technologies utilisées :
 

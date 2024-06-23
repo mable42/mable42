@@ -10,8 +10,6 @@ Coucou ! Je m'appelle Annabelle, et je suis passionnée d'informatique.
 
 🌐 Puis, j'ai connu les technologies du web et j'ai continué dans cette lignée.
 
-💾 J'ai étudié les bases de données, l'algorithmie et la sécurité.
-
 📚 Aujourd'hui, je continue d'apprendre en autonomie.
 
 # Expériences professionnelles :

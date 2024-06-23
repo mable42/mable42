@@ -1,6 +1,6 @@
 # 😈 L'Ange Déchu
 
-Coucou ! Je m'appelle Paul, et je suis passionné d'informatique.
+Coucou ! Je m'appelle Annabelle, et je suis passionnée d'informatique.
 
 # Mon parcours :
 
@@ -12,15 +12,15 @@ Coucou ! Je m'appelle Paul, et je suis passionné d'informatique.
 
 💾 J'ai étudié les bases de données, l'algorithmie et la sécurité.
 
-📚 Aujourd'hui, je continue d'apprendre en autonomie, hors du système scolaire secondaire.
+📚 Aujourd'hui, je continue d'apprendre en autonomie.
 
 # Expériences professionnelles :
 
-👩‍🔧 Technicien et chargé de maintenance dans une boîte d'informatique.
+👩‍🔧 Technicienne et chargée de maintenance dans une boîte d'informatique.
 
-👩‍💻 Technicien et chargé de maintenance informatique dans un collège.
+👩‍💻 Technicienne et chargée de maintenance informatique dans un collège.
 
-📞 Chargé de maintenance et d'installation téléphonique dans une mairie.
+📞 Chargée de maintenance et d'installation téléphonique dans une mairie.
 
 # Technologies utilisées :
 

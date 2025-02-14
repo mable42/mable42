@@ -28,3 +28,19 @@
 ## 🏆 GitHub Trophies
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=belledev-eu&theme=radical)
+
+## 🎵 Music
+
+- **[Spotify](https://open.spotify.com/intl-fr/artist/72BZYvYhtrlWz7sgQqpEiF)**: Follow me on Spotify for more music updates.
+
+[![Latest Single](image-1.png)](https://open.spotify.com/intl-fr/artist/72BZYvYhtrlWz7sgQqpEiF)
+
+## 📺 YouTube Channel
+
+- **[YouTube](https://www.youtube.com/@belle_anna.a)**: Subscribe to my YouTube channel for more funny and not-pro-at-all moments :\)
+
+## 💬 Discord
+
+- **[Discord](https://discord.com/channels/@me)**: You can add me on Discord if you wanna chit chat a bit!
+
+![alt text](image-3.png)

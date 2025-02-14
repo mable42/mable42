@@ -2,13 +2,9 @@
 
 🇫🇷 🇷🇪 Petite kafrine, petite bidouilleuse, petite musicienne et petite cheffe d'une toute petite entreprise :p
 
-![Profile Image](https://via.placeholder.com/150)
-
 ## 🔭 Projects
 
 - **[openai-tti](https://github.com/belledev-eu/openai-tti)**: A project that generates images using OpenAI's DALL-E 2 model.
-
-![openai-tti](https://via.placeholder.com/300x200)
 
 ## 🌱 Currently Learning
 

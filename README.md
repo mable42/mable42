@@ -5,6 +5,7 @@
 ## 🔭 Projects
 
 - **[openai-tti](https://github.com/belledev-eu/openai-tti)**: A project that generates images using OpenAI's DALL-E 2 model.
+- **[mastermind.dev](https://github.com/langedechu/mastermind.dev)**: A funny Discord chatbot that will spice up your server interactions.
 
 ## 🌱 Currently Learning
 

@@ -16,7 +16,7 @@
 ## 📫 How to reach me
 
 - Email: [contact@belledev.eu](mailto:contact@belledev.eu)
-- Instagram: [@belleannashobbies](https://www.instagram.com/mable42)
+- Instagram: [@mablelastud](https://www.instagram.com/mablelastud)
 
 ## 📊 GitHub Stats
 

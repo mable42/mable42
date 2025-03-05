@@ -5,7 +5,7 @@
 ## 🔭 Projects
 
 - **[openai-tti](https://github.com/belledev-eu/openai-tti)**: A project that generates images using OpenAI's DALL-E 2 model.
-- **[mastermind.dev](https://github.com/langedechu/mastermind.dev)**: A funny Discord chatbot that will spice up your server interactions.
+- **[mastermind.dev](https://github.com/mable42/mastermind.dev)**: A funny Discord chatbot that will spice up your server interactions.
 
 ## 🌱 Currently Learning
 
@@ -16,15 +16,15 @@
 ## 📫 How to reach me
 
 - Email: [contact@belledev.eu](mailto:contact@belledev.eu)
-- Instagram: [@belleannashobbies](https://www.instagram.com/belleannashobbies)
+- Instagram: [@mablelastud](https://www.instagram.com/mablelastud)
 
 ## 📊 GitHub Stats
 
-![Annabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=belledev-eu&show_icons=true&theme=radical)
+![Annabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=mable42&theme=radical&show_icons=true&hide=stars,issues)
 
 ## 🏆 GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=belledev-eu&theme=radical)
+![trophies](https://github-profile-trophy.vercel.app/?username=mable42&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C&row=2&column=3)
 
 ## 🎵 Music
 
